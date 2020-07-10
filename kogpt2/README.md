@@ -1,8 +1,3 @@
-## Check out a submodule
-git ....
+## Author: https://github.com/MrBananaHuman/KorGPT2Tutorial
+Read more from the github
 
-# Copy infer and train code
-```bash
-cp train.py KoGPT2 
-cp infer.py KoGPT2 
-```
